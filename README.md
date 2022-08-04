@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently learning **Full stack web development.**
 
-- 👯 I’m looking to Contribute **in Open source**
+- 👯 Looking to Contribute **in Open source**
 
 - 💬 Ask me about **Java , MERN and Docker**
 
