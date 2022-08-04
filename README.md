@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN stack and Devops.**
 
-- 💬 Ask me about **Java , MERN and Docker**
+- 💬 Ask me about **Java and Full stack **
 
 - 📫 How to reach me **ayushchamoli001@gmail.com**
 
